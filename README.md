@@ -3,7 +3,7 @@
 
 ![Thumbnail](https://github.com/user-attachments/assets/52d2e5d2-e391-49e4-b261-8b39d820db96)
 
-# YouTube video with detailed explaination and demo https://youtu.be/9zaJa82juV0
+# YouTube video with detailed explaination and demo https://youtu.be/iEswwS7fYBI
 
 # Embeddings are a way to represent words, sentences, or even entire documents as dense vectors in a high-dimensional space
 
